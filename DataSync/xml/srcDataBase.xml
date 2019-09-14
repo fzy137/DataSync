@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<Connections>
+  <Con key = "localhost_oracle" type = "oracle" dataBaseName="orcl" value = "Data Source=localhost:1521/xe;Persist Security Info=True;User ID=hdkg;Password=hdkg2018;Connection Timeout=5"/>
+  <Con key = "mysql_100.100.100.211" type = "mysql" dataBaseName="atc" value = "Server=100.100.100.211;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  <Con key = "oracle_100.100.100.210" type = "oracle" dataBaseName="orcl" value = "Data Source=100.100.100.210:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+  <Con key = "newTest_212.64.20.142" type = "mysql" dataBaseName="na" value = "Server=212.64.20.142;port=47019;Database=na;Uid=flightadmin;Pwd=flight#2019;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  <Con key = "naPro_mysql" type = "mysql" dataBaseName="na" value = "Server=123.206.185.152;Database=na;Uid=root;Pwd=Ware4u;charset=utf8;SslMode = none;defaultcommandtimeout=30" />  
+  <Con key = "newTest_212.64.20.142" type = "mysql" dataBaseName="na" value = "Server=212.64.20.142;port=47019;Database=na;Uid=flightadmin;Pwd=flight#2019;charset=utf8;SslMode = none;defaultcommandtimeout=30" />  
+  
+  <Con key = "zhengshi_oracle_172.10.10.50" type = "oracle" dataBaseName="orcl" value = "Data Source=172.10.10.50:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+  <Con key = "zhengshi_bak_oracle_172.10.10.70" type = "oracle" dataBaseName="orcl" value = "Data Source=172.10.10.70:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+   <Con key = "zhengshi_rebei_oracle_172.19.11.110" type = "oracle" dataBaseName="orcl" value = "Data Source=172.19.11.110:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+  
+  <Con key = "zsfz_oracle_172.30.20.173" type = "oracle" dataBaseName="orcl" value = "Data Source=172.30.20.173:1521/zsfzifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+  <Con key = "zsfz_mysql_172.30.20.163" type = "mysql" dataBaseName="atc" value = "Server=172.30.20.163;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  
+   <Con key = "test_oracle_172.19.19.101" type = "oracle" dataBaseName="orcl" value = "Data Source=172.19.19.101:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+  <Con key = "test_mysql_172.19.19.119" type = "mysql" dataBaseName="atc" value = "Server=172.19.19.119;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=60" />
+  <Con key = "zhengshi_mysql_172.10.10.66" type = "mysql" dataBaseName="atc" value = "Server=172.10.10.66;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  <Con key = "rebei_mysql_172.19.11.112" type = "mysql" dataBaseName="atc" value = "Server=172.19.11.112;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  
+  <Con key = "zsnb_15mysql_172.28.20.105" type = "mysql" dataBaseName="atc" value = "Server=172.28.20.105;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  
+  <Con key = "zytx_quguang_oracle_13.100.1.61" type = "oracle" dataBaseName="orcl" value = "Data Source=13.100.1.61:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+    <Con key = "zsnb_17mysql_172.28.20.105" type = "mysql" dataBaseName="atc_2017" value = "Server=172.28.20.105;Database=atc_2017;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+	<Con key = "zswz_15mysql_172.27.20.105" type = "mysql" dataBaseName="atc" value = "Server=172.27.20.105;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+	 <Con key = "zswz_17mysql_172.27.20.105" type = "mysql" dataBaseName="atc_2017" value = "Server=172.27.20.105;Database=atc_2017;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+	 
+	 
+	 <Con key = "zshc_oracle_172.26.20.203" type = "oracle" dataBaseName="orcl" value = "Data Source=172.26.20.203:1521/zshcifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+	  <Con key = "zshc_15mysql_172.26.20.162" type = "mysql" dataBaseName="atc" value = "Server=172.26.20.162;Database=atc;Uid=root;Pwd=123456;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+	  
+	  <Con key = "zsha_15mysql_172.19.21.2" type = "mysql" dataBaseName="atc" value = "Server=172.19.21.2;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+	  
+
+  <Con key = "oracle_172.19.10.144" type = "oracle" dataBaseName="orcl" value = "Data Source=172.19.10.144:1521/cdmdb;Persist Security Info=True;User ID=hdkg;Password=hdkg2015;Connection Timeout=5"/>
+  
+
+  <Con key = "15mysql_172.19.10.83" type = "mysql" dataBaseName="atc" value = "Server=172.19.10.83;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  
+
+ <Con key = "15mysql_172.19.21.2" type = "mysql" dataBaseName="atc" value = "Server=172.19.21.2;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  
+  <Con key = "17mysql_172.18.28.4" type = "mysql" dataBaseName="atc" value = "Server=172.18.28.4;Database=atc;Uid=hdkg;Pwd=hdkg2007;charset=utf8;SslMode = none;defaultcommandtimeout=60" />
+  
+  <Con key = "15mysql_172.18.28.5" type = "mysql" dataBaseName="atc" value = "Server=172.18.28.5;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  
+  
+  <Con key = "zsof_oracle_172.24.20.235" type = "oracle" dataBaseName="orcl" value = "Data Source=172.24.20.235:1521/zsofifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+ 
+  <Con key = "zsof_15mysql_172.24.20.105" type = "mysql" dataBaseName="atc" value = "Server=172.24.20.105;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+  
+  
+  
+  <Con key = "zsjn_oracle_172.22.20.235" type = "oracle" dataBaseName="orcl" value = "Data Source=172.22.20.235:1521/zsjnifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+ 
+  <Con key = "zsjn_15mysql_172.22.20.105" type = "mysql" dataBaseName="atc" value = "Server=172.22.20.105;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+
+   <Con key = "zscn_oracle_172.21.20.235" type = "oracle" dataBaseName="orcl" value = "Data Source=172.21.20.235:1521/zscnifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+ 
+  <Con key = "zscn_15mysql_172.21.20.105" type = "mysql" dataBaseName="atc" value = "Server=172.21.20.105;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+  
+  <Con key = "zsnj_oracle_172.25.20.203" type = "oracle" dataBaseName="orcl" value = "Data Source=172.25.20.203:1521/zsnjifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+ 
+  <Con key = "zsnj_15mysql_172.25.20.163" type = "mysql" dataBaseName="atc" value = "Server=172.25.20.163;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+  
+  
+   <Con key = "zsnb_oracle_172.28.20.235" type = "oracle" dataBaseName="orcl" value = "Data Source=172.28.20.235:1521/zsnbifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+ 
+
+  <Con key = "zsqd_oracle_172.23.20.203" type = "oracle" dataBaseName="orcl" value = "Data Source=172.23.20.203:1521/zsqdifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+ 
+  <Con key = "zsqd_15mysql_172.23.20.163" type = "mysql" dataBaseName="atc" value = "Server=172.23.20.163;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+  
+   <Con key = "zsam_oracle_172.29.20.203" type = "oracle" dataBaseName="orcl" value = "Data Source=172.29.20.203:1521/zsamifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+ 
+  <Con key = "zsam_15mysql_172.29.20.157" type = "mysql" dataBaseName="atc" value = "Server=172.29.20.157;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+  
+   <Con key = "zswz_oracle_172.27.20.235" type = "oracle" dataBaseName="orcl" value = "Data Source=172.27.20.235:1521/zswzifps;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+   
+   <Con key = "zytx_17mysql_13.100.1.40" type = "mysql" dataBaseName="atc" value = "Server=13.100.1.40;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+  
+   <Con key = "zytx_oracle_13.100.1.23" type = "oracle" dataBaseName="orcl" value = "Data Source=13.100.1.23:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+   
+   <Con key = "zytx沈阳区管_17mysql_13.100.1.62" type = "mysql" dataBaseName="atc" value = "Server=13.100.1.62;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+  
+   <Con key = "zytx沈阳区管_oracle_13.100.1.61" type = "oracle" dataBaseName="orcl" value = "Data Source=13.100.1.61:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+ 
+ 
+   <Con key = "zytl_17mysql_13.100.1.102" type = "mysql" dataBaseName="atc" value = "Server=13.100.1.102;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+  
+   <Con key = "zytl_oracle_13.100.1.101" type = "oracle" dataBaseName="orcl" value = "Data Source=13.100.1.101:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+   
+   <Con key = "zycc_17mysql_13.100.1.142" type = "mysql" dataBaseName="atc" value = "Server=13.100.1.142;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+  
+   <Con key = "zycc_oracle_13.100.1.141" type = "oracle" dataBaseName="orcl" value = "Data Source=13.100.1.141:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+	
+   <Con key = "zyhb_17mysql_13.100.1.182" type = "mysql" dataBaseName="atc" value = "Server=13.100.1.182;Database=atc;Uid=root;Pwd=password;charset=utf8;SslMode = none;defaultcommandtimeout=30" />
+
+  
+   <Con key = "zyhb_oracle_13.100.1.181" type = "oracle" dataBaseName="orcl" value = "Data Source=13.100.1.181:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+
+</Connections>
+
+

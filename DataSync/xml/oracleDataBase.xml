@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<Connections>
+  <Con key = "oracle_100.100.100.210" type = "oracle" dataBaseName="orcl" value = "Data Source=100.100.100.210:1521/orcl;Persist Security Info=True;User ID=hdkg;Password=hdkg2007;Connection Timeout=5"/>
+
+</Connections>
+
+
